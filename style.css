@@ -1,0 +1,78 @@
+
+
+ .col-sm{
+    font-family: monospace;
+    color: aliceblue;
+    margin: 20px;
+    padding: 10;
+}
+
+ .navbar-nav{
+     font-family:monospace;
+    
+}
+
+ .navbar{
+    font-size: 15px;
+    padding: 10px;
+}
+
+ .carousel{
+     color: aliceblue;
+}
+
+ .d-flex{
+    margin: 50px;
+    padding: 10px;
+}
+
+.carouselExampleDark{
+    margin: 100px;
+    padding: 10px; 
+}
+
+ .container{
+    font-family:monospace;
+}
+
+ .carousel-item{
+    color: aliceblue;
+    
+}
+
+ .row{
+   margin:20px;
+   padding: 20px;  
+
+}
+
+ .pagination{
+    color: darkgray;
+    font-family:monospace;
+    
+}
+ 
+ .card-title{
+    font-family:sans-serif;
+    font-weight:bolder;
+}
+
+
+ .card-text{
+    font-family:sans-serif;
+    font-weight:normal
+}
+
+
+
+
+
+ .iframe{
+    margin: 20px;
+    align-items: center; 
+}
+
+.mb-3{
+    padding: 100px;
+}
+
